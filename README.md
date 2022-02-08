@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jared1883
 - 👀 I’m interested in Computers, obviously 
-- 🌱 I’m currently learning Python, HTMl, Javascript.
+- 🌱 I’m currently learning Python, HTML, Javascript.
 - 💞️ I’m looking to collaborate on Nothing at the moment
 - 📫 How to reach me I'm sure you can find a way!
 
